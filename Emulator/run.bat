@@ -1,1 +1,1 @@
-python Emulator.py
+python Emulator.pyw
